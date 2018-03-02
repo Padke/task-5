@@ -23,15 +23,15 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Padke/task-3.git"
+  "url": "git+https://github.com/Padke/task-5.git"
  },
  "keywords": [],
  "author": "",
  "license": "ISC",
  "bugs": {
-  "url": "https://github.com/Padke/task-3/issues"
+  "url": "https://github.com/Padke/task-5/issues"
  },
- "homepage": "https://github.com/Padke/task-3#readme",
+ "homepage": "https://github.com/Padke/task-5#readme",
  "devDependencies": {
   "autoprefixer-cli": "^1.0.0",
   "browser-sync": "^2.23.6",
